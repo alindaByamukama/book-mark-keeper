@@ -7,3 +7,4 @@
 - [Google Fonts](https://fonts.google.com/)
 - [W3Schools - Vertical Align Objects](https://www.w3schools.com/cssref/pr_pos_vertical-align.asp)
 - [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free)
+- [Mozilla - Label](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
