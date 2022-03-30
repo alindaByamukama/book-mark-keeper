@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 
 :root {
-  --prim-color: #fff1e9;
+  --prim-color: #ffd8c2;
   --border-radius: 5px;
 }
 
@@ -88,6 +88,106 @@ h1:hover {
   width: 20px;
   vertical-align: sub;
   margin-right: 5px;
+}
+
+/* MODAL */
+
+.modal-container {
+  background: rgba(0, 0, 0, 0.6);
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.show-modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+  max-width: 95%;
+  width: 500px;
+  animation: modalopen 1s;
+}
+
+@keyframes modalopen {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.close-icon {
+  float: right;
+  color: black;
+  font-size: 24px;
+  position: relative;
+  top: 13px;
+  right: 13px;
+  cursor: pointer;
+}
+
+.modal-header {
+  background: var(--prim-color);
+  color: black;
+  padding: 15px;
+}
+
+.modal-header h3 {
+  margin: 0;
+}
+
+.modal-content {
+  padding: 20px;
+  background: whitesmoke;
+}
+
+.form-group {
+  height: 55px;
+}
+
+.form-input {
+  width: 97%;
+  padding: 5px;
+  border: 2px solid var(--prim-color);
+  border-radius: var(--border-radius);
+  display: block;
+  outline: none;
+}
+
+.form-label {
+  color:black;
+  font-weight: bold;
+  display: block;
+}
+
+button {
+  cursor: pointer;
+  color: black;
+  font-weight: bold;
+  background: var(--prim-color);
+  height: 30px;
+  width: 100px;
+  border: none;
+  border-radius: var(--border-radius);
+  margin-top: 10px;
+}
+
+button:hover {
+  filter: brightness(110%);
+}
+
+button:focus {
+  outline: none;
 }
 
 /* media query - large smart phone - vertical */
