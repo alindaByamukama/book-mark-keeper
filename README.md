@@ -15,3 +15,4 @@
 - [Mozilla - localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 - [Mozilla - JSON Stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 - [Mozilla - JSON Parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+- [Mozilla - Array Splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
