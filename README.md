@@ -12,3 +12,6 @@
 - [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp)
 - [Mozilla - Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 - [RegEx Playground Tool](https://regexr.com/)
+- [Mozilla - localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+- [Mozilla - JSON Stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+- [Mozilla - JSON Parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
