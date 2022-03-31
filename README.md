@@ -8,3 +8,7 @@
 - [W3Schools - Vertical Align Objects](https://www.w3schools.com/cssref/pr_pos_vertical-align.asp)
 - [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free)
 - [Mozilla - Label](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
+- [Mozilla - Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
+- [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp)
+- [Mozilla - Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [RegEx Playground Tool](https://regexr.com/)
